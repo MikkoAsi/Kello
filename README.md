@@ -1,2 +1,2 @@
 # Kello
-Pythonilla toteutettu kellotaulu ohjelmoinnin jatkokurssilla
+Pythonilla toteutettu kello-harjoitus ohjelmoinnin jatkokurssilla
